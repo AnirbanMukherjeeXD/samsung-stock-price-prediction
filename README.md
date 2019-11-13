@@ -1,2 +1,5 @@
 # samsung-stock-price-prediction
-Predict stock price of Samsung Stock Price dataset using machine learning
+## Aim:
+Predict stock price of Samsung Stock Price dataset using machine learning.
+## Models used: 
+- GRU
